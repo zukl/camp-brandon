@@ -1,0 +1,148 @@
+/* colours 
+
+293C9B - dark blue - links
+
+1E62B9 - regular headers
+
+000 - body 
+
+B95B1E - visited links 
+
+*/
+
+
+body {
+	background-image: "../camp%20brandon/img/wood.jpg";
+	background-color: #ccc;
+}
+
+
+/* text stuff -------------------------------------- */
+
+
+p {
+	font-family:"Shadows into light", sans-serif;
+	color: #000;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	margin:0px;
+}
+
+
+/* BIG TITLE TEXT */
+h1 {
+	font-family: "Love ya like a sister", sans-serif;
+	text-align: center;
+	color: #777;
+	font-size: 24px;
+	padding-top: 0px;
+	padding-bottom: 15px;
+	margin:0px;
+	color:#283891;
+}
+
+/* nav bar, subheads */
+h2 {
+	font-family: "Love ya like a sister", sans-serif;
+	text-align: center;
+	color: #777;
+	font-size: 16px;
+	padding: 0px;
+	margin:0px;
+	color:#283891;
+}
+
+/*little email text on that one page*/
+h3 {
+	font-family: "Love ya like a sister", sans-serif;
+	text-align: center;
+	color: #777;
+	font-size: 14px;
+	padding: 0px;
+	margin:0px;
+}
+
+/*schedule headers*/
+h5 {
+	font-family: "Love ya like a sister", sans-serif;
+	text-align: center;
+	color: #333;
+	font-size: 16px;
+	padding: 7px 0px 5px 0px;
+	margin:0px;
+	color: #1b75bb;
+}
+
+/*schedule lil text*/
+h4 {
+	font-family: "Love ya like a sister", sans-serif;
+	text-align: center;
+	color: #848484;
+	font-size: 16px;
+	padding: 0px;
+	margin:0px;
+}
+
+a {
+	text-decoration: none;
+	color: #293C9B;
+}
+
+a:visited {
+	color: #B95B1E;
+}
+
+div {
+	padding:0px;
+	margin:0px;
+}
+
+
+/* body stuff ---------------------------------------*/
+
+
+.center {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  top: 10%;
+  left: 30%;
+  background-image:"/img/paper.png";
+  background-color:#ffecc9;
+  box-shadow: 2px 2px 2px 0px #777;
+}
+
+.nav {
+	padding:20px 20px 20px 20px;
+}
+
+.body {
+	padding:0px 40px 0px 40px;
+}
+
+.left {
+	text-align: left; 
+	align: left;
+}
+
+.sched1 {
+	padding-left:80px;
+}
+
+.sched2 {
+	padding-left: 150px;
+}
+
+/* media queries */
+
+
+/* web */
+
+
+/* tablet (consider landscape v standard)*/
+
+
+/* mobile */
+
